@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580775335998",
+    "project_id": "fir-flutter-codelab-90e4b",
+    "storage_bucket": "fir-flutter-codelab-90e4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580775335998:android:85b3838cda78c3657d196f",
+        "android_client_info": {
+          "package_name": "com.masahiro.meetup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAykZ83eGzjA-F-8ADzGc1CHip1z7vkITA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
